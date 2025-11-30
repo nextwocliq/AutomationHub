@@ -1,0 +1,8 @@
+Flask
+requests
+openai
+google-auth-oauthlib
+google-auth
+google-api-python-client
+python-dotenv
+gunicorn
